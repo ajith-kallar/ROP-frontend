@@ -1,6 +1,6 @@
 import basket_icon from './basket_icon.png'
 import logo from './logo.png'
-import header_img from './header_img.png'
+import headerimg from './headerimg.png'
 import search_icon from './search_icon.png'
 import menu_1 from './menu_1.png'
 import menu_2 from './menu_2.png'
@@ -63,28 +63,28 @@ import checked from './checked.png'
 import un_checked from './un_checked.png'
 
 export const assets = {
-    logo,
-    basket_icon,
-    header_img,
-    search_icon,
-    rating_starts,
-    add_icon_green,
-    add_icon_white,
-    remove_icon_red,
-    app_store,
-    play_store,
-    linkedin_icon,
-    facebook_icon,
-    twitter_icon,
-    cross_icon,
-    selector_icon,
-    profile_icon,
-    logout_icon,
-    bag_icon,
-    parcel_icon,
-    checked,
-    un_checked
-}
+  logo,
+  basket_icon,
+  headerimg,
+  search_icon,
+  rating_starts,
+  add_icon_green,
+  add_icon_white,
+  remove_icon_red,
+  app_store,
+  play_store,
+  linkedin_icon,
+  facebook_icon,
+  twitter_icon,
+  cross_icon,
+  selector_icon,
+  profile_icon,
+  logout_icon,
+  bag_icon,
+  parcel_icon,
+  checked,
+  un_checked,
+};
 
 export const menu_list = [
   {
